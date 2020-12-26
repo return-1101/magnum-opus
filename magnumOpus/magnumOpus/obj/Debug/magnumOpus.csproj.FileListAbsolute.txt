@@ -1,0 +1,10 @@
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\bin\Debug\magnumOpus.exe.config
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\bin\Debug\magnumOpus.exe
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\bin\Debug\magnumOpus.pdb
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\obj\Debug\magnumOpus.csprojAssemblyReference.cache
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\obj\Debug\magnumOpus.Form1.resources
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\obj\Debug\magnumOpus.Properties.Resources.resources
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\obj\Debug\magnumOpus.csproj.GenerateResource.cache
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\obj\Debug\magnumOpus.csproj.CoreCompileInputs.cache
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\obj\Debug\magnumOpus.exe
+C:\Users\i_am_\source\repos\magnumOpus\magnumOpus\obj\Debug\magnumOpus.pdb
